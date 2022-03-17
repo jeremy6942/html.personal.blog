@@ -1,13 +1,6 @@
 *{
     margin : 0px;
     padding: 0px;
-    box-sizing: border-box;
-}
-a{
-    text-decoration: none;
-}
-ul{
-    list-style: none;
 }
 body{
     margin: 0px;
@@ -16,8 +9,8 @@ body{
 /*----blog------------*/
 #blog{
  /*class="blog"*/
-      padding: 60px;
-      /*to make the img  to center*/
+       padding: 60px;
+       /*to make the img to right a bit*/
         
 }
 .blog-heading{
@@ -39,5 +32,3 @@ body{
     font-weight: 600;
     /*the degree of h3*/
 }
-
-
